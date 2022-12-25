@@ -920,6 +920,14 @@ video {
   align-items: center;
 }
 
+.justify-start{
+  justify-content: flex-start;
+}
+
+.justify-end{
+  justify-content: flex-end;
+}
+
 .justify-center{
   justify-content: center;
 }
@@ -1648,6 +1656,14 @@ video {
 
   .md\:mt-10{
     margin-top: 2.5rem;
+  }
+
+  .md\:ml-5{
+    margin-left: 1.25rem;
+  }
+
+  .md\:ml-10{
+    margin-left: 2.5rem;
   }
 
   .md\:block{
